@@ -1,4 +1,4 @@
-/*Credit Management System*/
+/*Credit Management System: Stylesheet*/
 
 .bgimg
 {
@@ -28,7 +28,7 @@
 
 .headerset h1
 {
-	font-size: 75px;
+	font-size: 65px;
 	font-weight: bold;
 }
 
@@ -36,7 +36,7 @@
 
 .users
 {
-	padding: 40px 0px;
+	padding: 70px 0px 50px;
 	height: 700;
 }
 
@@ -51,8 +51,8 @@
 
 .record
 {
-	height: 1000px;
-	padding: 40px 0px;
+	height: 900px;
+	padding: 70px 0px 50px;
 	width: 100%;
 }
 
