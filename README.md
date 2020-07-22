@@ -15,6 +15,6 @@
 
 - [Demo Video :arrow_upper_right:](https://drive.google.com/file/d/16nbURvqq0i80I74TU358t34oROGddAV9/view?usp=sharing)
 
-![CMS Screenshot](/Project-Demo/CMS-img.png)
+![CMS Screenshot](/Project%20Demo/CMS-img.png)
 
 
