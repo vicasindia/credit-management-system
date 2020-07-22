@@ -1,0 +1,112 @@
+/*Credit Management System*/
+
+.bgimg
+{
+	background-image: url('../img/img1.jpg');
+	/*Image Credit: https://getlateral.com/credit-control-software*/
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 661px;
+}
+
+.brand
+{
+	font-family: "Allerta Stencil", Sans-serif;
+}
+
+.headerset
+{
+	padding-top: 260px;
+	box-sizing: border-box;
+}
+
+.headerset h2
+{
+	font-size: 42px;
+}
+
+.headerset h1
+{
+	font-size: 75px;
+	font-weight: bold;
+}
+
+   /*------Users--------*/
+
+.users
+{
+	padding: 40px 0px;
+	height: 700;
+}
+
+.users h1
+{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+
+   /*------Record--------*/
+
+.record
+{
+	height: 1000px;
+	padding: 40px 0px;
+	width: 100%;
+}
+
+.record h1
+{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+
+	/*------Responsive--------*/
+
+@media(min-width: 992px)
+{
+
+}
+
+@media(min-width: 768px) and (max-width: 991px)
+{
+
+}
+
+@media(min-width: 575px) and (max-width: 767px)
+{
+
+}
+
+@media(min-width: 480px) and (max-width: 574px)
+{
+
+}
+
+@media(max-width: 479px)
+{
+   
+   .headerset h2
+   {
+		font-size: 22px;
+	}
+
+	.headerset h1
+	{
+		font-size: 45px;
+	}
+
+	.users
+	{
+		height: 1100px;
+	}
+
+	.record
+	{
+		height: 1500px;
+	}
+
+}
+
